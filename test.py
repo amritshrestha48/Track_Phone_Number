@@ -1,1 +1,1 @@
-number = "+9779867873746"
+#number = "+9779867873746" #test purpose
